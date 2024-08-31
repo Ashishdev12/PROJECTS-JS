@@ -8,5 +8,6 @@
     "tablink",
     "tablinks",
     "tabname"
-  ]
+  ],
+  "liveServer.settings.port": 5502
 }

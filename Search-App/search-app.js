@@ -36,6 +36,7 @@ async function searchImages() {
 
     const imageWrapper = document.createElement('div');
     imageWrapper.classList.add('search-result');
+    console.log(imageWrapper);
 
     const image = document.createElement('img');
     image.src = result.urls.small;
